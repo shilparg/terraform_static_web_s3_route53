@@ -1,18 +1,9 @@
 # terraform_static_web_s3_route53
 
-terraform/
-├── main.tf
-├── variables.tf
-├── outputs.tf
-├── s3/
-│ ├── bucket.tf
-│ ├── iam.tf
-├── route53/
-│ ├── dns.tf
+<img width="1061" height="827" alt="image" src="https://github.com/user-attachments/assets/22c7d862-aaf8-4fd9-9ba7-434a98d23b1c" />
 
-==============
 Walk through how this Terraform code works—step by step—so we can see how each piece contributes to deploying a secure, production-grade static website on AWS using S3 and Route 53.
-==============
+------
 
 ## 1. **Provider Initialization**
 
