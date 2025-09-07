@@ -1,6 +1,7 @@
 # terraform_static_web_s3_route53
 
-<img width="1061" height="827" alt="image" src="https://github.com/user-attachments/assets/22c7d862-aaf8-4fd9-9ba7-434a98d23b1c" />
+<img width="1062" height="898" alt="image" src="https://github.com/user-attachments/assets/4a21a6b6-15e2-49a6-8ad0-78162456f558" />
+
 
 Walk through how this Terraform code works—step by step—so we can see how each piece contributes to deploying a secure, production-grade static website on AWS using S3 and Route 53.
 ------
@@ -143,6 +144,11 @@ These give us visibility into key resources after deployment—useful for debugg
 ## Summary
 
 This setup:
+
+## Final Test Matrix
+
+<img width="902" height="232" alt="image" src="https://github.com/user-attachments/assets/790dd983-a319-43e8-83ca-4819f26eff8a" />
+
 
 - Deploys a static site securely on S3
 - Configures DNS with Route 53
