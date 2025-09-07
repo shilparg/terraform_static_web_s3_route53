@@ -144,14 +144,12 @@ These give us visibility into key resources after deployment—useful for debugg
 ## Summary
 
 This setup:
-
-## Final Test Matrix
-
-<img width="902" height="232" alt="image" src="https://github.com/user-attachments/assets/790dd983-a319-43e8-83ca-4819f26eff8a" />
-
-
 - Deploys a static site securely on S3
 - Configures DNS with Route 53
 - Uploads content and sets up public access
 - Uses IAM roles and policies for secure automation
 - Modularizes variables and outputs for clarity and reuse
+
+## Final Test Matrix depending in Feature selected
+
+<img width="902" height="232" alt="image" src="https://github.com/user-attachments/assets/790dd983-a319-43e8-83ca-4819f26eff8a" />
